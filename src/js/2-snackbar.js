@@ -1,6 +1,7 @@
 /**
  * Promise Generator Application
  * Module 10 - Homework Task 2
+
  */
 
 // Import iziToast library for notifications
@@ -11,7 +12,7 @@ import 'izitoast/dist/css/iziToast.min.css';
  * DOM References
  * Get reference to form element
  */
-const form = document.querySelector('.promise-form');
+const form = document.querySelector('.form');
 
 /**
  * Form Submit Event Handler
